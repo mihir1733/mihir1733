@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Web developer and Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **NodeJS and NestJS Framework** and  also **Python and Django/Flask Web Framework** 
+- 🌱 I’m currently learning **NodeJS and NestJS Framework** and  also **ReactJS** 
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **NodeJs, NestJs, Python, Django, Flask**
+- 💬 Ask me about **NodeJs, NestJs, Python, Django, Flask, ReactJs**
 
 - 📫 How to reach me **mihirpithva17@gmail.com**
 
